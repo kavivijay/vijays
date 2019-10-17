@@ -8,7 +8,7 @@ class area
 		int a,b,c,d;
 		try
 		{
-			System.out.println("Enter three number");
+			System.out.println("Enter three number(for multiplication) :");
 			a=Integer.parseInt(in.readLine());
 			b=Integer.parseInt(in.readLine());
 			c=Integer.parseInt(in.readLine());
