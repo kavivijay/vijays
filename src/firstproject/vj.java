@@ -12,7 +12,7 @@ class vj
 			l=Integer.parseInt(in.readLine());
 			b=Integer.parseInt(in.readLine());
 			a=l*b;
-			System.out.println("Area of rectangle"+a);
+			System.out.println("Area of rectangle is"+a);
 		}
 		catch(Exception X)
 		{
