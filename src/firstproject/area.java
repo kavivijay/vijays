@@ -13,7 +13,7 @@ class area
 			b=Integer.parseInt(in.readLine());
 			c=Integer.parseInt(in.readLine());
 			d=a*b*c;
-			System.out.println("Product is "+d);
+			System.out.println("Product is the "+d);
 		}
 	catch(Exception X)
 		{
